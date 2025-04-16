@@ -1,0 +1,2 @@
+https://www.baeldung.com/java-jmeter-command-line
+https://www.blazemeter.com/blog/jmeter-command-line
