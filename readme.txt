@@ -1,6 +1,5 @@
 JMeter from Java code, headless mode
 
-CI pipeline
 Ubuntu 24.04
 open-jdk 22
 Selenium 4.29
